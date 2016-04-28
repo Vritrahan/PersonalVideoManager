@@ -1,0 +1,24 @@
+drop sequence seq_id;
+drop sequence seq_idc;
+drop sequence seq_idm;
+drop sequence seq_idw;
+CREATE SEQUENCE seq_id
+ START WITH     1
+ INCREMENT BY   1;
+ CREATE SEQUENCE seq_idm
+ START WITH     1
+ INCREMENT BY   1;
+ CREATE SEQUENCE seq_idc
+ START WITH     1
+ INCREMENT BY   1;
+CREATE SEQUENCE seq_idw
+ START WITH     1
+ INCREMENT BY   1;
+update category set number_of_videos=0;
+delete from categorytree;
+delete from mainlist;
+delete from mediainfo;
+delete from history;
+delete from recentlywatched;
+delete from mostwatched;
+commit;

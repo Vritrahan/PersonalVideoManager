@@ -13,3 +13,4 @@ c:\users\sumeet bahadkar\documents\visual studio 2015\Projects\PersonalVideoMana
 c:\users\sumeet bahadkar\documents\visual studio 2015\Projects\PersonalVideoManager\Personal Video Manager\obj\Debug\AxInterop.WMPLib.dll
 c:\users\sumeet bahadkar\documents\visual studio 2015\Projects\PersonalVideoManager\Personal Video Manager\obj\Debug\Personal Video Manager.csproj.ResolveComReference.cache
 C:\Users\Sumeet Bahadkar\documents\visual studio 2015\Projects\PersonalVideoManager\Personal Video Manager\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Sumeet Bahadkar\documents\visual studio 2015\Projects\PersonalVideoManager\Personal Video Manager\obj\Debug\Personal_Video_Manager.Form2.resources

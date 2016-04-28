@@ -1,0 +1,7 @@
+insert into category values(0,'Animation',0,0);
+insert into category values(1,'Comedy',0,0);
+insert into category values(2,'Horror',0,0);
+insert into category values(3,'Documentary',0,0);
+insert into category values(4,'Music',0,0);
+insert into category values(5,'Sports',0,0);
+insert into category values(6,'Misc.',0,0);
